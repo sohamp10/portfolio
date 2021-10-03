@@ -1,0 +1,22 @@
+{
+    "hero_section": {
+        "title": "Hello, welcome to",
+        "title2": "Soham's portfolio",
+        "description": "Thank you for visiting my portfolio. This is my home page.Below is the list of projects",
+        "img_logo": "https://t3.ftcdn.net/jpg/03/55/56/40/360_F_355564085_8I0Ytm6j5mlDBB1b6vLGvVZbxwRf3Oy1.jpg"
+    },
+    "section1": {
+        "title": "Basic Services",
+        "description": "These are the services I will provide after my completion of course",
+        "show_or_hide": true
+    },
+    "section2": {
+        "title": "About me",
+        "show_or_hide": true
+    },
+    "section3": {
+        "title": "Contact Us",
+        "description": "From below form you can easily reach to me. So feel free to fill it.",
+        "show_or_hide": true
+    }
+}
